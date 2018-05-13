@@ -1,0 +1,7 @@
+export const OPEN_SIDE_MENU = 'OPEN_SIDE_MENU';
+export const CLOSE_SIDE_MENU = 'CLOSE_SIDE_MENU';
+export const TOGGLE_SIDE_MENU = 'TOGGLE_SIDE_MENU';
+export const UPDATE_FORM_TASK = 'UPDATE_FORM_TASK';
+export const ADD_NEW_TASK = 'ADD_NEW_TASK';
+export const TOGGLE_TASK = 'TOGGLE_TASK';
+export const REMOVE_TASK = 'REMOVE_TASK';

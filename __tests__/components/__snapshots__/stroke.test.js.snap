@@ -1,0 +1,969 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component: Paper renders correctly 1`] = `
+ShallowWrapper {
+  "length": 1,
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <Stroke />,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "class",
+    "props": Object {
+      "children": Array [
+        <Line
+          stroke={undefined}
+          strokeWidth="2"
+          x1="0"
+          x2="600"
+          y1="0"
+          y2="100"
+        />,
+        <Line
+          stroke={undefined}
+          strokeWidth="2"
+          x1="0"
+          x2="700"
+          y1="0"
+          y2="100"
+        />,
+        <Line
+          stroke={undefined}
+          strokeWidth="2"
+          x1="0"
+          x2="200"
+          y1="0"
+          y2="100"
+        />,
+        <Line
+          stroke={undefined}
+          strokeWidth="2"
+          x1="0"
+          x2="250"
+          y1="0"
+          y2="100"
+        />,
+        <Line
+          stroke={undefined}
+          strokeWidth="2"
+          x1="0"
+          x2="400"
+          y1="0"
+          y2="100"
+        />,
+        <Line
+          stroke={undefined}
+          strokeWidth="2"
+          x1="0"
+          x2="160"
+          y1="0"
+          y2="100"
+        />,
+        <Line
+          stroke={undefined}
+          strokeWidth="2"
+          x1="0"
+          x2="150"
+          y1="0"
+          y2="100"
+        />,
+        <Line
+          stroke={undefined}
+          strokeWidth="2"
+          x1="0"
+          x2="130"
+          y1="0"
+          y2="100"
+        />,
+        <Line
+          stroke={undefined}
+          strokeWidth="2"
+          x1="0"
+          x2="110"
+          y1="0"
+          y2="100"
+        />,
+        <Line
+          stroke={undefined}
+          strokeWidth="2"
+          x1="0"
+          x2="90"
+          y1="0"
+          y2="100"
+        />,
+        <Line
+          stroke={undefined}
+          strokeWidth="2"
+          x1="0"
+          x2="80"
+          y1="0"
+          y2="100"
+        />,
+        <Line
+          stroke={undefined}
+          strokeWidth="2"
+          x1="0"
+          x2="70"
+          y1="0"
+          y2="100"
+        />,
+        <Line
+          stroke={undefined}
+          strokeWidth="2"
+          x1="0"
+          x2="60"
+          y1="0"
+          y2="100"
+        />,
+        <Line
+          stroke={undefined}
+          strokeWidth="2"
+          x1="0"
+          x2="50"
+          y1="0"
+          y2="100"
+        />,
+        <Line
+          stroke={undefined}
+          strokeWidth="2"
+          x1="0"
+          x2="40"
+          y1="0"
+          y2="100"
+        />,
+        <Line
+          stroke={undefined}
+          strokeWidth="2"
+          x1="0"
+          x2="30"
+          y1="0"
+          y2="100"
+        />,
+        <Line
+          stroke={undefined}
+          strokeWidth="2"
+          x1="0"
+          x2="20"
+          y1="0"
+          y2="100"
+        />,
+        <Line
+          stroke={undefined}
+          strokeWidth="2"
+          x1="0"
+          x2="10"
+          y1="0"
+          y2="100"
+        />,
+        <Line
+          stroke={undefined}
+          strokeWidth="2"
+          x1="0"
+          x2="5"
+          y1="0"
+          y2="100"
+        />,
+      ],
+      "height": "40",
+      "preserveAspectRatio": "xMidYMid meet",
+      "width": "40",
+    },
+    "ref": null,
+    "rendered": Array [
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "class",
+        "props": Object {
+          "stroke": undefined,
+          "strokeWidth": "2",
+          "x1": "0",
+          "x2": "600",
+          "y1": "0",
+          "y2": "100",
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "class",
+        "props": Object {
+          "stroke": undefined,
+          "strokeWidth": "2",
+          "x1": "0",
+          "x2": "700",
+          "y1": "0",
+          "y2": "100",
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "class",
+        "props": Object {
+          "stroke": undefined,
+          "strokeWidth": "2",
+          "x1": "0",
+          "x2": "200",
+          "y1": "0",
+          "y2": "100",
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "class",
+        "props": Object {
+          "stroke": undefined,
+          "strokeWidth": "2",
+          "x1": "0",
+          "x2": "250",
+          "y1": "0",
+          "y2": "100",
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "class",
+        "props": Object {
+          "stroke": undefined,
+          "strokeWidth": "2",
+          "x1": "0",
+          "x2": "400",
+          "y1": "0",
+          "y2": "100",
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "class",
+        "props": Object {
+          "stroke": undefined,
+          "strokeWidth": "2",
+          "x1": "0",
+          "x2": "160",
+          "y1": "0",
+          "y2": "100",
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "class",
+        "props": Object {
+          "stroke": undefined,
+          "strokeWidth": "2",
+          "x1": "0",
+          "x2": "150",
+          "y1": "0",
+          "y2": "100",
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "class",
+        "props": Object {
+          "stroke": undefined,
+          "strokeWidth": "2",
+          "x1": "0",
+          "x2": "130",
+          "y1": "0",
+          "y2": "100",
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "class",
+        "props": Object {
+          "stroke": undefined,
+          "strokeWidth": "2",
+          "x1": "0",
+          "x2": "110",
+          "y1": "0",
+          "y2": "100",
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "class",
+        "props": Object {
+          "stroke": undefined,
+          "strokeWidth": "2",
+          "x1": "0",
+          "x2": "90",
+          "y1": "0",
+          "y2": "100",
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "class",
+        "props": Object {
+          "stroke": undefined,
+          "strokeWidth": "2",
+          "x1": "0",
+          "x2": "80",
+          "y1": "0",
+          "y2": "100",
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "class",
+        "props": Object {
+          "stroke": undefined,
+          "strokeWidth": "2",
+          "x1": "0",
+          "x2": "70",
+          "y1": "0",
+          "y2": "100",
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "class",
+        "props": Object {
+          "stroke": undefined,
+          "strokeWidth": "2",
+          "x1": "0",
+          "x2": "60",
+          "y1": "0",
+          "y2": "100",
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "class",
+        "props": Object {
+          "stroke": undefined,
+          "strokeWidth": "2",
+          "x1": "0",
+          "x2": "50",
+          "y1": "0",
+          "y2": "100",
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "class",
+        "props": Object {
+          "stroke": undefined,
+          "strokeWidth": "2",
+          "x1": "0",
+          "x2": "40",
+          "y1": "0",
+          "y2": "100",
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "class",
+        "props": Object {
+          "stroke": undefined,
+          "strokeWidth": "2",
+          "x1": "0",
+          "x2": "30",
+          "y1": "0",
+          "y2": "100",
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "class",
+        "props": Object {
+          "stroke": undefined,
+          "strokeWidth": "2",
+          "x1": "0",
+          "x2": "20",
+          "y1": "0",
+          "y2": "100",
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "class",
+        "props": Object {
+          "stroke": undefined,
+          "strokeWidth": "2",
+          "x1": "0",
+          "x2": "10",
+          "y1": "0",
+          "y2": "100",
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "class",
+        "props": Object {
+          "stroke": undefined,
+          "strokeWidth": "2",
+          "x1": "0",
+          "x2": "5",
+          "y1": "0",
+          "y2": "100",
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+    ],
+    "type": [Function],
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "class",
+      "props": Object {
+        "children": Array [
+          <Line
+            stroke={undefined}
+            strokeWidth="2"
+            x1="0"
+            x2="600"
+            y1="0"
+            y2="100"
+          />,
+          <Line
+            stroke={undefined}
+            strokeWidth="2"
+            x1="0"
+            x2="700"
+            y1="0"
+            y2="100"
+          />,
+          <Line
+            stroke={undefined}
+            strokeWidth="2"
+            x1="0"
+            x2="200"
+            y1="0"
+            y2="100"
+          />,
+          <Line
+            stroke={undefined}
+            strokeWidth="2"
+            x1="0"
+            x2="250"
+            y1="0"
+            y2="100"
+          />,
+          <Line
+            stroke={undefined}
+            strokeWidth="2"
+            x1="0"
+            x2="400"
+            y1="0"
+            y2="100"
+          />,
+          <Line
+            stroke={undefined}
+            strokeWidth="2"
+            x1="0"
+            x2="160"
+            y1="0"
+            y2="100"
+          />,
+          <Line
+            stroke={undefined}
+            strokeWidth="2"
+            x1="0"
+            x2="150"
+            y1="0"
+            y2="100"
+          />,
+          <Line
+            stroke={undefined}
+            strokeWidth="2"
+            x1="0"
+            x2="130"
+            y1="0"
+            y2="100"
+          />,
+          <Line
+            stroke={undefined}
+            strokeWidth="2"
+            x1="0"
+            x2="110"
+            y1="0"
+            y2="100"
+          />,
+          <Line
+            stroke={undefined}
+            strokeWidth="2"
+            x1="0"
+            x2="90"
+            y1="0"
+            y2="100"
+          />,
+          <Line
+            stroke={undefined}
+            strokeWidth="2"
+            x1="0"
+            x2="80"
+            y1="0"
+            y2="100"
+          />,
+          <Line
+            stroke={undefined}
+            strokeWidth="2"
+            x1="0"
+            x2="70"
+            y1="0"
+            y2="100"
+          />,
+          <Line
+            stroke={undefined}
+            strokeWidth="2"
+            x1="0"
+            x2="60"
+            y1="0"
+            y2="100"
+          />,
+          <Line
+            stroke={undefined}
+            strokeWidth="2"
+            x1="0"
+            x2="50"
+            y1="0"
+            y2="100"
+          />,
+          <Line
+            stroke={undefined}
+            strokeWidth="2"
+            x1="0"
+            x2="40"
+            y1="0"
+            y2="100"
+          />,
+          <Line
+            stroke={undefined}
+            strokeWidth="2"
+            x1="0"
+            x2="30"
+            y1="0"
+            y2="100"
+          />,
+          <Line
+            stroke={undefined}
+            strokeWidth="2"
+            x1="0"
+            x2="20"
+            y1="0"
+            y2="100"
+          />,
+          <Line
+            stroke={undefined}
+            strokeWidth="2"
+            x1="0"
+            x2="10"
+            y1="0"
+            y2="100"
+          />,
+          <Line
+            stroke={undefined}
+            strokeWidth="2"
+            x1="0"
+            x2="5"
+            y1="0"
+            y2="100"
+          />,
+        ],
+        "height": "40",
+        "preserveAspectRatio": "xMidYMid meet",
+        "width": "40",
+      },
+      "ref": null,
+      "rendered": Array [
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "class",
+          "props": Object {
+            "stroke": undefined,
+            "strokeWidth": "2",
+            "x1": "0",
+            "x2": "600",
+            "y1": "0",
+            "y2": "100",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "class",
+          "props": Object {
+            "stroke": undefined,
+            "strokeWidth": "2",
+            "x1": "0",
+            "x2": "700",
+            "y1": "0",
+            "y2": "100",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "class",
+          "props": Object {
+            "stroke": undefined,
+            "strokeWidth": "2",
+            "x1": "0",
+            "x2": "200",
+            "y1": "0",
+            "y2": "100",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "class",
+          "props": Object {
+            "stroke": undefined,
+            "strokeWidth": "2",
+            "x1": "0",
+            "x2": "250",
+            "y1": "0",
+            "y2": "100",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "class",
+          "props": Object {
+            "stroke": undefined,
+            "strokeWidth": "2",
+            "x1": "0",
+            "x2": "400",
+            "y1": "0",
+            "y2": "100",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "class",
+          "props": Object {
+            "stroke": undefined,
+            "strokeWidth": "2",
+            "x1": "0",
+            "x2": "160",
+            "y1": "0",
+            "y2": "100",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "class",
+          "props": Object {
+            "stroke": undefined,
+            "strokeWidth": "2",
+            "x1": "0",
+            "x2": "150",
+            "y1": "0",
+            "y2": "100",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "class",
+          "props": Object {
+            "stroke": undefined,
+            "strokeWidth": "2",
+            "x1": "0",
+            "x2": "130",
+            "y1": "0",
+            "y2": "100",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "class",
+          "props": Object {
+            "stroke": undefined,
+            "strokeWidth": "2",
+            "x1": "0",
+            "x2": "110",
+            "y1": "0",
+            "y2": "100",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "class",
+          "props": Object {
+            "stroke": undefined,
+            "strokeWidth": "2",
+            "x1": "0",
+            "x2": "90",
+            "y1": "0",
+            "y2": "100",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "class",
+          "props": Object {
+            "stroke": undefined,
+            "strokeWidth": "2",
+            "x1": "0",
+            "x2": "80",
+            "y1": "0",
+            "y2": "100",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "class",
+          "props": Object {
+            "stroke": undefined,
+            "strokeWidth": "2",
+            "x1": "0",
+            "x2": "70",
+            "y1": "0",
+            "y2": "100",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "class",
+          "props": Object {
+            "stroke": undefined,
+            "strokeWidth": "2",
+            "x1": "0",
+            "x2": "60",
+            "y1": "0",
+            "y2": "100",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "class",
+          "props": Object {
+            "stroke": undefined,
+            "strokeWidth": "2",
+            "x1": "0",
+            "x2": "50",
+            "y1": "0",
+            "y2": "100",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "class",
+          "props": Object {
+            "stroke": undefined,
+            "strokeWidth": "2",
+            "x1": "0",
+            "x2": "40",
+            "y1": "0",
+            "y2": "100",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "class",
+          "props": Object {
+            "stroke": undefined,
+            "strokeWidth": "2",
+            "x1": "0",
+            "x2": "30",
+            "y1": "0",
+            "y2": "100",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "class",
+          "props": Object {
+            "stroke": undefined,
+            "strokeWidth": "2",
+            "x1": "0",
+            "x2": "20",
+            "y1": "0",
+            "y2": "100",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "class",
+          "props": Object {
+            "stroke": undefined,
+            "strokeWidth": "2",
+            "x1": "0",
+            "x2": "10",
+            "y1": "0",
+            "y2": "100",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "class",
+          "props": Object {
+            "stroke": undefined,
+            "strokeWidth": "2",
+            "x1": "0",
+            "x2": "5",
+            "y1": "0",
+            "y2": "100",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+      ],
+      "type": [Function],
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+      },
+    },
+  },
+}
+`;
